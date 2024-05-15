@@ -13,11 +13,13 @@
 
 <h2>📫 Connect with me:</h2>
 
+[<img align="left" alt="AndrasEipl | Instagram" width="22px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-3mmtnow6.png" />][LinkedIn]
+[<img align="left" alt="AndrasEipl | TryHackMe" width="22px" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" />][THM]
 [<img align="left" alt="AndrasEipl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="AndrasEipl | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" />][THM]
 
-[instagram]: https://www.instagram.com/eiplandras/
+[LinkedIn]: www.linkedin.com/in/andraseipl
 [THM]: https://tryhackme.com/p/quantumsec
+[instagram]: https://www.instagram.com/eiplandras/
 
 
 <!--
