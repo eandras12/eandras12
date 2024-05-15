@@ -1,4 +1,4 @@
-<h1>Hi, I'm András! </h1>
+<h1>Hi, I'm Andras! </h1>
 
 <h2>👨‍💻 Cybersecutiy Projects:</h2>
 
