@@ -17,7 +17,7 @@
 [<img align="left" alt="AndrasEipl | TryHackMe" width="22px" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" />][THM]
 [<img align="left" alt="AndrasEipl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[LinkedIn]: www.linkedin.com/in/andraseipl
+[LinkedIn]: https://www.linkedin.com/in/andraseipl
 [THM]: https://tryhackme.com/p/quantumsec
 [instagram]: https://www.instagram.com/eiplandras/
 
