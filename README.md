@@ -5,8 +5,9 @@
 - <b>Test</b>
   - [Random Test Link](https://youtube.com)
 
-<h2>📝 Certifications:</h2>
+<h2>📝 Certifications:</h2
 
+- EC-Council - CEH (In progress)
 - [TryHackme - Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-05XW0BQMGQ.png)
 - [TryHackMe - Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4RFECDSEPW.png)
 
