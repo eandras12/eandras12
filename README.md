@@ -14,8 +14,10 @@
 <h2>📫 Connect with me:</h2>
 
 [<img align="left" alt="AndrasEipl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AndrasEipl | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" />][THM]
 
 [instagram]: https://www.instagram.com/eiplandras/
+[THM]: https://tryhackme.com/p/quantumsec
 
 
 <!--
