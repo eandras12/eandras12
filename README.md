@@ -18,7 +18,7 @@
 [<img align="left" alt="AndrasEipl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [LinkedIn]: https://www.linkedin.com/in/andraseipl
-[THM]: https://tryhackme.com/p/quantumsec
+[THM]: https://tryhackme.com/p/THMexp
 [instagram]: https://www.instagram.com/eiplandras/
 
 
