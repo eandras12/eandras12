@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecutiy Projects:</h2>
 
 - <b>Project 1</b>
-  - [In Progress](https://youtube.com)
+  - [In Progress]()
 
 <h2>📝 Certifications:</h2
 
@@ -13,7 +13,7 @@
 
 <h2>📫 Connect with me:</h2>
 
-[<img align="left" alt="AndrasEipl | Instagram" width="22px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-3mmtnow6.png" />][LinkedIn]
+[<img align="left" alt="AndrasEipl | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" />][LinkedIn]
 [<img align="left" alt="AndrasEipl | TryHackMe" width="22px" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" />][THM]
 [<img align="left" alt="AndrasEipl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
